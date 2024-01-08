@@ -1,0 +1,626 @@
+.h3{
+  font-weight: bold;
+  text-align: center;
+  font-size: 17px;
+  color: white;
+}
+
+
+.h1m{
+  text-align: center;
+  font-size: 46px;
+  color: white;
+}
+.blackdiv{
+  position: relative;
+  height: 500px;
+  width: 100%;
+}
+.blackimg{
+  height: 500px;
+  width: 100%;
+}
+.h5{
+  font-weight: bold;
+  color:white;
+  position: absolute;
+  left: 150px;
+  bottom: 320px;
+  font-size: 16px;
+  word-spacing: 2px;
+}
+.about{
+  font-size: 26px;
+  font-weight: bold;
+  color:white;
+  bottom: 250px;
+  position:absolute;
+  left: 160px;
+
+}
+.blackp{
+  position: absolute;
+  bottom: 200px;
+  left: 160px;
+  color: white;
+  font-size: 14px;
+}
+.blackp2{
+  position: absolute;
+  bottom: 150px;
+  font-size: 14px;
+  color: white;
+  left: 160px;
+}
+.redimg{
+  position: absolute;
+  width: 400px;
+  bottom: 120px;
+  left: 700px;
+}
+.black_div{
+height: 180px;
+width: 900px;
+background-color: black;
+position: absolute;
+top: 1020px;
+left: 160px;
+padding: 60px;
+
+}
+.h4-1{
+  font-size: 32px;
+  font-weight: bold;
+  position: absolute;
+  color: white;
+}
+.h4-2{
+  font-size: 32px;
+  left: 30px;
+  margin-left: 250px;
+  position: absolute;
+  font-weight: bold;
+  color: white;
+}
+.h4-3{
+  font-size: 32px;
+  margin-left: 550px;
+position: absolute;
+font-weight: bold;
+color: white;
+}
+.h4-4{
+  font-size: 32px;
+  margin-left: 700px;
+  position: absolute;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.h4-5{
+  position: absolute;
+  bottom: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  left: 7px;
+  color: white;
+}
+
+.h4-6{
+  margin-left: 220px;
+  position: absolute;
+  bottom: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.h4-7{
+  margin-left: 480px;
+  bottom: 0;
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+.h4-8{
+  margin-left: 700px;
+  bottom: 0;
+  position: absolute;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+.likeimg{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 280px;
+  top: 170px;
+}
+
+
+.blackdiv2{
+  height: 530px;
+  width: 100%;
+  background-color: black;
+  position: relative;
+}
+.like-content{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  left: 290px;
+  top: 290px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+.like-p{
+  position: absolute;
+  font-size: 16px;
+  color: white;
+  font-weight: lighter;
+left: 250px;
+top: 320px;
+
+
+}
+
+.like-p2{
+
+  position: absolute;
+  left: 285px;
+  color: white;
+  top: 340px;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+
+.fb-content{
+  position: absolute;
+  color: #ff4433;
+  height: 25px;
+  width: 200px;
+  left: 300px;
+  top: 390px;
+}
+
+.red-img2{
+  width: 50%;
+  position: absolute;
+  top: 0;
+  right:0;
+}
+
+.large-h3{
+  font-size: 47px;
+  word-spacing: 5px;
+  text-align: center;
+}
+
+.second-h3{
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+.video-div{
+  position: relative;
+  height: 750px;
+  background-color: #b62519;
+  position: relative;
+}
+.red-singer{
+  background-color: aqua;
+  background-image: url(https://img.freepik.com/premium-photo/black-silhouette-guitarist-rock-concert_367038-200.jpg?w=740);
+}
+
+
+.video-h1{
+  text-align: center;
+  color: white;
+}
+
+.sound-video{
+  position:absolute;
+  left: 350px;
+  top: 30%;
+  height: 360px;
+  width: 650px;
+}
+.video-p{
+  text-align: center;
+  bottom: 90px;
+  position: absolute;
+  left: 47%;
+  color: #cccccc;
+}
+
+
+.a{
+  width: 180px;
+  height: 50px;
+  font-family: 'Jost', sans-serif !important;
+  border-style: none !important;
+  box-sizing:border-box !important;
+  position: absolute;
+  bottom: 50px;
+  left: 43%;
+
+  
+}
+.listen-back-div{
+  background-color: #b62519;
+  height: 650px;
+
+}
+
+.head-h1{
+  font-size: 47px;
+  color: #ffffff;
+font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+.events {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  margin: 10px 300px;
+}
+
+.event-button {
+  background-color: #ee4c3ed0;
+  padding: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  width: 150px;
+  border: none !important;
+}
+
+h2{
+  color: white;
+  
+}
+p{
+  color: white;
+}
+
+.line-div{
+
+  background-color: white;
+  height: 1px;
+  width: 51%;
+  position: absolute;
+  left: 330px;
+  align-items: center;
+}
+
+.svg-div{
+  height: 650px;
+  width: 100%;
+  background-color: white;
+  padding: 80px;
+  justify-content: space-between;
+  position: relative;
+  
+}
+
+.svg-img1{
+width: 320px;
+position: absolute;
+left: 95px;
+}
+.svg-img2{
+  width: 320px;
+  position: absolute;
+  left: 500px;
+
+}
+.svg-img3{
+  width: 320px;
+  position: absolute;
+  right: 100px;
+}
+
+.svg-img-div{
+  height: 470px;
+  border:1px solid white;
+  
+  
+}
+
+.svm1{
+  position: absolute;
+  left: 240px;
+  top: 180px;
+}
+.svm2{
+position: absolute;
+right: 220px;
+top: 180px;
+}
+.svm3{
+position: absolute;
+top: 0;
+right: 650px;
+top: 170px;
+}
+
+.svg1-h3{
+  font-size: 24px;
+  position: absolute;
+  top: 275px;
+  color: white;
+  left: 140px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+
+
+
+
+}
+.svg2-h3{
+  font-size: 24px;
+position: absolute;
+top: 0;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+left: 540px;
+top: 260px;
+color: white;
+
+
+
+}
+.svg3-h3{
+font-size: 24px;
+position: absolute;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+top: 270px;
+left: 980px;
+color: white;
+}
+
+
+.svg1-h5{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  top: 315px;
+  color: white;
+  left: 190px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.svg2-h5{
+  font-size: 16px;
+  position: absolute;
+  left: 580px;
+  top: 305px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.svg3-h5{
+font-size: 16px;
+position: absolute;
+font-family: 'Times New Roman', Times, serif;
+top: 300px;
+color: white;
+left:1020px ;
+}
+
+.btn1{
+  border: none !important;
+  background-color: #E5e5e5;
+  font-family: 'Times New Roman', Times, serif !important;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  height: 50px;
+  width: 130px;
+  color: black;
+  
+}
+.btn2{
+  border: none !important;
+  background-color: #e5e5e5;
+  font-family: 'Times New Roman', Times, serif !important;
+  height: 50px;
+  width: 130px;
+  position: absolute;
+  top: 400px;
+  left: 600px;
+  color: black;
+}
+
+.btn3{
+  border: none !important;
+  background-color: #e5e5e5;
+  font-family: 'Times New Roman', Times, serif !important;
+  height: 50px;
+  width: 130px;
+  position: absolute;
+  top: 400px;
+  left: 1020px;
+  color: black;
+}
+
+
+.booking-h4{
+  position: absolute;
+  font-size: 32px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  left: 300px;
+}
+
+
+.comments-section{
+  
+  width: 300px;
+  box-shadow: none;
+  background-color: #d6d6d626;
+  padding: 16px;
+  height: 80px !important;
+  width: 670px;
+  position: absolute;
+  left: 300px;
+}
+
+.name-section{
+  position: absolute;
+  left: 300px;
+  background-color: #d6d6d626;
+  width: 300px;
+  top: 100px;
+  height: 50px;
+}
+
+.name-div{
+  position: relative;
+}
+
+.email-section{
+  position: absolute;
+  left: 650px;
+  width: 320px;
+  background-color: #d6d6d626;
+  top: 100px;
+  height: 50px;
+}
+
+.email-div{
+  position: relative;
+}
+
+
+.button-section{
+width: 670px !important;
+background-color: black ;
+color: white;
+font-family: 'Times New Roman', Times, serif !important;
+font-size: 16px !important;
+}
+
+.last-submit-div{
+  position: relative;
+  left: 300px;
+  top: 180px;
+}
+
+.last-img-div{
+  position: relative;
+
+}
+
+.last-image{
+  top: 300px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 700px;
+  
+}
+
+.last-content-h3{
+  font-size: 16px;
+  top: 480px;
+  left: 41%;  
+  position: absolute;
+  color: white;
+  
+}
+
+.connect-h1{
+  position: absolute;
+  top: 520px;
+  left: 40%;
+  font-size: 55px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: white;
+}
+
+.with-h1{
+  position: absolute;
+  top: 590px;
+  left: 40%;
+  font-size: 55px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.fb-{
+position: absolute;
+left: 40%;
+top: 730px;
+color:aliceblue;
+}
+
+.tw-{
+position:absolute ;
+top: 730px;
+left: 44%;
+color: aliceblue;
+}
+
+.insta-{
+position: absolute;
+left: 48%;
+top: 730px;
+color: aliceblue;
+}
+
+.in-svg{
+position: absolute;
+left: 52%;
+top: 730px;
+color:aliceblue;
+
+}
+
+.sound-cloud{
+left: 56%;
+  position: absolute;
+  top: 730px;
+  color:aliceblue;
+}
+
+
+.first-nav{
+  background-color: transparent !important;
+width: 100%;
+
+}
+
+.music-artist{
+color: white !important;
+}
+
+.lines-toggler{
+  background-color: white !important;
+}
